@@ -17,7 +17,7 @@ int main(void)
 	for (upperCase = 'A'; upperCase <= 'Z'; upperCase++)
 		putchar(upperCase);
 
-	putchar(i'\n');
+	putchar('\n');
 
 	return (0);
 }
