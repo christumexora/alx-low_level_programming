@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * int main - combination of numbers separated by a comma
+ * main - combination of numbers separated by a comma
  *
  * Return: Always 0 (Success)
  */
