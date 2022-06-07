@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - prints all possible combinations of two digits in ascending order separately
+ * main - prints all possible combinations of two digits in ascending order sepa
  *
  * Return: Always 0 (Success)
  */
@@ -17,7 +17,7 @@ int main(void)
 			putchar((degit1 % 10) + '0');
 			putchar((degit2 % 10) + '0');
 
-			if (degit1 ==8 && degit2 == 9)
+			if (degit1 == 8 && degit2 == 9)
 				continue;
 
 			putchar(',');
