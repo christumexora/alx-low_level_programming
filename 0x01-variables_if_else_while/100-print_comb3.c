@@ -10,7 +10,7 @@ int main(void)
 {
 	int degit1, degit2;
 
-	for (degit1 = 0; degit1 <= 9; degit++)
+	for (degit1 = 0; degit1 <= 9; degit1++)
 	{
 		for (degit2 = degit1 + 1; degit2 <= 9; degit2++)
 		{
