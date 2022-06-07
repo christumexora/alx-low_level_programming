@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /*
- * main - prints all possible combinations of two digits in ascending order sep
+ * main - prints all possible combination of two digits in ascending order sepa
  *
  * Return: Always 0 (Success)
  */
