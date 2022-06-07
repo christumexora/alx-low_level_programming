@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/**
- * main - prints all possible combinations of two digits in ascending order sepa
+/*
+ * main - prints all possible combinations of two digits in ascending order
  *
  * Return: Always 0 (Success)
  */
