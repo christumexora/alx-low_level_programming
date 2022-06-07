@@ -12,7 +12,6 @@ int main(void)
 
 	for (degit1 = 0; degit1 <= 9; degit1++)
 	{
-		
 		for (degit2 = degit1 + 1; degit2 <= 9; degit2++)
 
 		{
@@ -29,7 +28,7 @@ int main(void)
 				putchar(',');
 				putchar(' ');
 			}
-		}	
+		}
 	}
 
 	putchar('\n');
